@@ -1,6 +1,10 @@
 module.exports = {
   siteMetadata: {
+<<<<<<< HEAD
     title: `Gatsby Default Starter`,
+=======
+    title: `Tittel karsten fra gatsby-config.js`,
+>>>>>>> 7f91464049a0b7e45fb4cdd36840bd6d741a389b
     description: `Kick off your next, great Gatsby project with this default starter. This barebones starter ships with the main Gatsby configuration files you might need.`,
     author: `@gatsbyjs`,
   },

@@ -10,12 +10,26 @@ const IndexPage = () => (
     <SEO title="Home" />
     <h1>Hi people</h1>
     <p>Welcome to your new Gatsby site.</p>
+<<<<<<< HEAD
     <p>Now go build something great.</p>
+=======
+    <p>Now go build something great.
+      
+    </p>
+    <p></p>
+
+
+>>>>>>> 7f91464049a0b7e45fb4cdd36840bd6d741a389b
     <div style={{ maxWidth: `300px`, marginBottom: `1.45rem` }}>
       <Image />
     </div>
     <Link to="/page-2/">Go to page 2</Link> <br />
     <Link to="/using-typescript/">Go to "Using TypeScript"</Link>
+<<<<<<< HEAD
+=======
+
+
+>>>>>>> 7f91464049a0b7e45fb4cdd36840bd6d741a389b
   </Layout>
 )
 

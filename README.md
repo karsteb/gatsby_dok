@@ -1,3 +1,10 @@
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+# gatsby_dok
+testsite for Gatsby
+=======
+>>>>>>> 7f91464049a0b7e45fb4cdd36840bd6d741a389b
 <!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
 <p align="center">
   <a href="https://www.gatsbyjs.com">
@@ -97,3 +104,7 @@ Looking for more guidance? Full documentation for Gatsby lives [on the website](
 [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/import/project?template=https://github.com/gatsbyjs/gatsby-starter-default)
 
 <!-- AUTO-GENERATED-CONTENT:END -->
+<<<<<<< HEAD
+=======
+>>>>>>> master
+>>>>>>> 7f91464049a0b7e45fb4cdd36840bd6d741a389b

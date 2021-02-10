@@ -10,6 +10,10 @@ import PropTypes from "prop-types"
 import { useStaticQuery, graphql } from "gatsby"
 
 import Header from "./header"
+<<<<<<< HEAD
+=======
+import Menu from "./menu"    //tillegg karsten for import av meny
+>>>>>>> 7f91464049a0b7e45fb4cdd36840bd6d741a389b
 import "./layout.css"
 
 const Layout = ({ children }) => {
@@ -23,9 +27,19 @@ const Layout = ({ children }) => {
     }
   `)
 
+<<<<<<< HEAD
   return (
     <>
       <Header siteTitle={data.site.siteMetadata?.title || `Title`} />
+=======
+
+  //Her legges menypunktene til i taggen <Menu />
+
+  return (
+    <>
+      <Header siteTitle={data.site.siteMetadata?.title || `Title`} />
+      <Menu />    
+>>>>>>> 7f91464049a0b7e45fb4cdd36840bd6d741a389b
       <div
         style={{
           margin: `0 auto`,
